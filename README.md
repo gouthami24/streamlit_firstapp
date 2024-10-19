@@ -1,2 +1,2 @@
-# astrallogic
-Astrallogic Projects
+# MoolAI
+MoolAI Projects
